@@ -1,2 +1,2 @@
-# AI-ML
-this repository contains my pet projects, short assignments, and other ML, AL related content 
+# Stanford CS231
+this repository contains solved assignments for the stanford CS231 course offerd online
